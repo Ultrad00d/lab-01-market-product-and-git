@@ -22,3 +22,12 @@ These engineers translate creative concepts into playable experiences by coding 
 Google & Apple API Devs
 
 These specialists focus on integrating a company's software with ecosystem-specific services, such as Google Maps, Apple Pay, or iCloud storage. They ensure that applications properly handle user data permissions and maintain compatibility with the ever-evolving technical standards of the Play Store and App Store.
+
+
+## My chosen role
+Gamedev
+
+### Skills I already have
+
+
+### Skills I clearly lack
